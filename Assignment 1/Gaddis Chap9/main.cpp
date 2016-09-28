@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author:Christopher Kooyman
+ * Author: Christopher Kooyman
  *
  * Created on September 26, 2016, 11:19 AM
  */
